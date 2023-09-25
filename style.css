@@ -1,0 +1,91 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+header {
+  background-color: #4b93bf;
+  color: white;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+header div {
+  display: flex;
+  align-items: center;
+}
+
+header ul {
+  display: flex;
+  list-style: none;
+  justify-content: space-evenly;
+  width: 40vw;
+  font-size: 22px;
+}
+
+.primeirasessao {
+  display: flex;
+  align-items: center;
+  justify-content: space-evenly;
+  font-size: 20px;
+  height: 54vh;
+  background-color: #e4eef1;
+}
+
+.primeirasessao div {
+  width: 40vw;
+  color: #0f468c;
+}
+
+.segundasessao {
+  display: flex;
+  background-color: #4b93bf;
+  color: white;
+  align-items: center;
+  justify-content: space-evenly;
+  height: 42vh;
+}
+
+.segundasessao h2 {
+  width: 36vw;
+  word-spacing: 8px;
+}
+
+.terceirasessao {
+  background-color: #e4eef1;
+  height: 50vh;
+  display: flex;
+  justify-content: space-evenly;
+}
+.ursos {
+  display: flex;
+}
+footer {
+  display: flex;
+  background-color: #4b93bf;
+  border: solid;
+  height: 28vh;
+}
+a.socias {
+  border: solid;
+  height: 7vh;
+  border: solid;
+}
+
+#redesocial {
+  width: 40%;
+  height: 20%;
+}
+
+h2.carol {
+  width: 80%;
+  text-align: center;
+}
+.grazy {
+  width: 80%;
+  height: 40%;
+  color: white solid;
+  text-align: center;
+}
